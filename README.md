@@ -5,9 +5,9 @@ A lightweight, zero-configuration tool to instantly serve your local static webs
 This project uses a simple Python HTTP server and Cloudflare Quick Tunnels to expose your local files to the internet without messing with router ports or DNS settings.
 
 ## Features
-- 🚀 **Zero Config:** Just run the script in your website's folder.
-- 🔒 **Secure:** Generates an HTTPS link via Cloudflare.
-- 🧹 **Clean Exit:** Automatically kills the background Python server when you close the tunnel.
+-  **Zero Config:** Just run the script in your website's folder.
+-  **Secure:** Generates an HTTPS link via Cloudflare.
+-  **Clean Exit:** Automatically kills the background Python server when you close the tunnel.
 
 ## Prerequisites
 
